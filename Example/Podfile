@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'TestServiceNow_Example' do
+  pod 'TestServiceNow', :path => '../'
+
+  target 'TestServiceNow_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
