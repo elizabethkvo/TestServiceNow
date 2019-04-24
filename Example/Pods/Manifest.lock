@@ -1,0 +1,16 @@
+PODS:
+  - TestServiceNow (0.1.0)
+
+DEPENDENCIES:
+  - TestServiceNow (from `../`)
+
+EXTERNAL SOURCES:
+  TestServiceNow:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  TestServiceNow: 1cd5442d9d0f23fcd73e146f415826f604f130e0
+
+PODFILE CHECKSUM: 99685b014621b731e0565b37d09aa08cf3f4b7fb
+
+COCOAPODS: 1.6.1

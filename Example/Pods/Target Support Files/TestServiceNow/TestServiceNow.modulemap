@@ -1,0 +1,6 @@
+framework module TestServiceNow {
+  umbrella header "TestServiceNow-umbrella.h"
+
+  export *
+  module * { export * }
+}
